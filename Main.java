@@ -3,4 +3,3 @@ public calss Main{
             System.out.println("박규민");
         }
     }
-}
